@@ -1,0 +1,219 @@
+
+@font-face {
+  font-family: Futura;
+  src: url(../fonts/Futura.ttc);
+}
+
+hr {
+  border-top: 1px solid #3aa395;
+  margin-top: 0px!important;
+}
+@media (min-width: 768px) {
+  hr {
+    margin-top: 20px!important;
+  }
+}
+
+
+.logo {
+  height: 190px;
+  img {
+    width: 70px;
+    height: auto;
+    float: left;
+  }
+}
+
+
+.agileits-logo {
+  display: inline;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: Futura;
+}
+
+a {
+  color: #ffffff !important;
+  &:link {
+    text-decoration: none;
+  }
+}
+
+.logo h1 {
+  padding-top: 5px;
+  text-decoration: none;
+  text-align: center;
+  float: left;
+  width: 66%;
+}
+
+html, body{
+  height:100%;
+}
+
+.navbar-toggle {
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.banner {
+  background: url(../images/1.jpg) no-repeat 0px 0px;
+  background-size: cover;
+  height:100%;
+}
+
+.glyphicon {
+	color:#ffffff;
+}
+
+hr {
+  margin-bottom: 0px!important;
+}
+
+.profiles {
+  text-align: left; 
+  margin-top: 70px;
+  padding-left: 40px;
+  padding-right: 40px;
+  p {
+  	color: #ffffff;
+  	margin-left: 20px;
+  }
+  .right {
+  	float: right;
+  	margin-top: 12px!important;
+  }
+  .left {
+  	float: left;
+  	padding-left: 70px;
+  	margin-top: 12px!important;
+  }
+}
+
+.row {
+	padding: 10px 10px;
+}
+
+p {
+    margin: 0 0 0px!important;
+}
+
+.profile-Tim {
+	background: url(../images/profile_round2.png) no-repeat 0px 0px;
+	background-size: contain;
+	height: 50px;
+	width: auto;
+}
+
+.profile-James {
+	background: url(../images/profile_round4.png) no-repeat 0px 0px;
+	background-size: contain;
+	height: 50px;
+	width: auto;
+}
+
+.profile-Roelof {
+	background: url(../images/profile_round1.png) no-repeat 0px 0px;
+	background-size: contain;
+	height: 50px;
+	width: auto;
+}
+
+.profile-Amelie {
+	background: url(../images/profile_round5.png) no-repeat 0px 0px;
+	background-size: contain;
+	height: 50px;
+	width: auto;
+
+}
+
+.trophy-gold {
+  background: url(../images/trophy_gold.png) no-repeat 0px 0px;
+  background-size: contain;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.trophy-silver {
+  background: url(../images/trophy_silver.png) no-repeat 0px 0px;
+  background-size: contain;
+  height: 30px;
+  margin-top: 10px;
+}
+
+.trophy-bronze {
+  background: url(../images/trophy_bronze.png) no-repeat 0px 0px;
+  background-size: contain;
+  height: 30px;
+  margin-top: 10px;
+}
+
+
+@media (min-width: 470px) {
+  .logo h1 {
+    width: 70%;
+  }
+}
+
+@media (min-width: 510px) {
+  .logo h1 {
+    width: 72.5%;
+  }
+}
+
+@media (min-width: 550px) {
+  .logo h1 {
+    width: 75%;
+  }
+}
+
+@media (min-width: 616px) {
+  .logo h1 {
+    width: 77.5%;
+  }
+}
+
+@media (min-width: 680px) {
+  .logo h1 {
+    width: 80%;
+  }
+}
+
+@media (min-width: 722px) {
+  .logo h1 {
+    width: 80%;
+  }
+}
+
+@media (min-width: 729px) {
+  .logo h1 {
+    width: 79%;
+  }
+}
+
+@media (min-width: 768px) {
+  .logo h1 {
+    width: 84%;
+  }
+}
+
+@media (min-width: 789px) {
+  .logo h1 {
+    width: 87.5%;
+  }
+}
+
+@media (min-width: 890px) {
+  .logo h1 {
+    width: 90%;
+  }
+}
+
+@media (min-width: 1300px) {
+  .logo h1 {
+    width: 92%;
+  }
+}
